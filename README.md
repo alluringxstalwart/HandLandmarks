@@ -1,2 +1,2 @@
-# HandsLandMark
+# HandLandmarks
 
